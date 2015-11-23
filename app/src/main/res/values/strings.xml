@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">RegionCodeRecognizer</string>
+    <string name="app_name">COUNTRYCODEz</string>
+
+    <!--Button Category -->
     <string name="button_1_text">1</string>
     <string name="button_2_text">2</string>
     <string name="button_3_text">3</string>
@@ -10,6 +12,10 @@
     <string name="button_8_text">8</string>
     <string name="button_9_text">9</string>
     <string name="button_0_text">0</string>
-    <string name="button_clear_text">Delete</string>
-    <string name="button_checkNumber">Controleer \n nummer</string>
+    <string name="button_clear_text">C</string>
+    <string name="button_checkNumber">Controleer land bij\n nummer</string>
+
+    <!--Message Category -->
+    <string name="display_no_input">No input.</string>
+
 </resources>
